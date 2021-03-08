@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2.0.0.0</version>
-    <url>https://github.com/lpuddu-datalogic/testing/raw/master/AutoUpdate%202.0.zip</url>
-    <changelog></changelog>
-    <mandatory>false</mandatory>
+    <url>FTP://127.0.0.1/AutoUpdate 2.0.zip</url>
+	<mandatory>false</mandatory>
 </item>
