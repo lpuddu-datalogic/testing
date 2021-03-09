@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.0</version>
-    <url>https://github.com/lpuddu-datalogic/testing/raw/master/AutoUpdate%202.0.zip</url>
-	<mandatory>false</mandatory>
-</item>
-<item>
-    <version>1.2.0.0</version>
-    <url>https://github.com/lpuddu-datalogic/testing/raw/master/AutoUpdate%202.0.zip</url>
-	<mandatory>false</mandatory>
-</item>
-<item>
     <version>2.0.0.0</version>
     <url>https://github.com/lpuddu-datalogic/testing/raw/master/AutoUpdate%202.0.zip</url>
 	<mandatory>false</mandatory>
